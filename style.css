@@ -245,6 +245,22 @@ img {
     margin-bottom: 0.7rem;
 }
 
+.map-container {
+    margin: 0 0 1.2rem;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(244, 197, 66, 0.25);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.map-container iframe {
+    display: block;
+    width: 100%;
+    min-height: 280px;
+    height: 320px;
+    border: 0;
+}
+
 .whatsapp {
     position: fixed;
     bottom: 20px;
