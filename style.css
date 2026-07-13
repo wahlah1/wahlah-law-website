@@ -256,8 +256,8 @@ img {
 .map-container iframe {
     display: block;
     width: 100%;
-    min-height: 280px;
-    height: 320px;
+    min-height: 360px;
+    height: 420px;
     border: 0;
 }
 
